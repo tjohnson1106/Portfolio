@@ -39,6 +39,7 @@ const App: React.FC<Props> = (props) => {
           </ul>
         </nav>
         <Header title="portfolio" />
+        <Services />
 
         <Route path="/" exact component={Home} />
         <Route path="/about/" component={About} />
