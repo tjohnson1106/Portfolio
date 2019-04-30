@@ -23,7 +23,7 @@ class Header extends Component<Props> {
 
 const headerStyles = {
   backgroundImage: `url( ${Background} )`,
-  height: "80vh",
+  height: "50vh",
   backgroundSize: "cover"
 };
 
