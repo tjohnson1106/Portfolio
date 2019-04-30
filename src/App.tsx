@@ -5,7 +5,7 @@ import { Home } from "./components/Home";
 import { About } from "./components/About";
 import { Contact } from "./components/Contact";
 import { Portfolio } from "./components/Portfolio";
-import { Services } from "./components/Services";
+import { Services } from "./components/services/Services";
 import Header from "./components/header/Header";
 
 import "./App.css";
