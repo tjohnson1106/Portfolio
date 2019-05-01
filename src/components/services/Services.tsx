@@ -31,21 +31,31 @@ export const Services: React.FC<
           <span>
             <ion-icon name="phone-portrait" />
           </span>
+          <h4>Web</h4>
+          <p>Freshly designed</p>
         </div>
         <div>
           <span>
             <ion-icon name="brush" />
           </span>
+          <h4>mobile</h4>
+          <p>React Native, Swift, Objective-C</p>
         </div>
         <div>
           <span>
             <ion-icon name="thumbs-up" />
           </span>
+          <h4>Favorites</h4>
+          <p>
+            Millions of users <ion-icon name="heart" />
+          </p>
         </div>
         <div>
           <span>
             <ion-icon name="help" />
           </span>
+          <h4>Question</h4>
+          <p>Ask a question</p>
         </div>
       </div>
     </div>
